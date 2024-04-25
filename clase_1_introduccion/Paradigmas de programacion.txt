@@ -1,0 +1,19 @@
+Paradigmas de programacion
+Diego loaiza
+
+U1 
+programacion funcional
+(python)
+
+U2
+Patrones de diseño
+    (python/ java)
+
+U3
+programacion concuurrente
+    multihhilo
+    (java)
+
+
+
+
